@@ -1,0 +1,26 @@
+﻿Suggested Names
+
+
+1. Plan it
+2. Event Guide
+3. Festguiden
+4. La fiesta
+
+
+
+
+
+
+Initial Ideas
+
+
+1. Auto suggest checklist based on event type
+2. Auto suggest providers based on event type and location
+3. Manage guests’ list
+4. Manage budget 
+5. Manage todo list
+6. Decoration tips
+7. General tips
+8. Game Ideas
+9. Party games for guests
+10. Manage lucky coupon lottery for guests
